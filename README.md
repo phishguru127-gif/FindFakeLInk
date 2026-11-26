@@ -26,10 +26,10 @@ Outputs: `models/sms_model.joblib`, `models/url_model.joblib`, `reports/metrics.
 ## Requirements
 - Python 3.9 or newer
 - pip
-- https://github.com/phishguru127-gif/FindFakeLInk.git
 
 ## Run on Windows
 ```bash
+https://github.com/phishguru127-gif/FindFakeLInk.git
 py -m venv venv
 venv\\Scripts\\activate
 pip install -r requirements.txt
